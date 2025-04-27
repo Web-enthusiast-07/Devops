@@ -1,5 +1,7 @@
 cnt=1;
 
+set -x   # For Debugging
+
 while true 
 do 
     echo "Hiii $cnt"
